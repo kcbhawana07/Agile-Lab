@@ -1,0 +1,41 @@
+##IMPLEMENTATION OF GIT
+
+A.Installation of git
+
+B.configure Git initial ->git config --global user.name "kcbhawana07" ->git config --global user.email "kcbhawana78@gmail.com"
+
+C.Create a git repository i.local repository ->mkdir Agile-Lab ->cd Agile ->git init
+
+
+
+#1st 
+git init
+
+
+#Add git url
+git remote add origin https://github.com/kcbhawana07/Agile-Lab.git
+
+#Branch 
+git branch -M main
+
+
+#Add file
+git add filename
+git commit -m "commit message"
+
+
+#Add all file
+git add .
+git commit -m "commit message"
+
+
+#Push
+git push -u origin main
+
+
+#SAMPLE WORKFLOW OF GIT IMPLEMENTATION git init git add . 
+git commit -m "initial commit for lab1" 
+git remote add origin https://github.com/kcbhawana07/Agile-Lab.
+
+
+
