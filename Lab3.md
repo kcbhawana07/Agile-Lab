@@ -1,4 +1,5 @@
-Lab 3: Deployment Tools in Agile OBJECTIVES: ->To understand and use deployment tools that help automate the process of delivering software in Agile development.
+Lab 3: Deployment Tools in Agile 
+OBJECTIVES: ->To understand and use deployment tools that help automate the process of delivering software in Agile development.
 
 INTRODUCTION: In Agile, code is released frequently. Deployment tools help automate the process of building, testing, and launching software, ensuring faster and more reliable delivery.
 
