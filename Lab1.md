@@ -70,5 +70,5 @@ git merge branchname
 git push -u origin main
 ```
 
-### Conclusion
+### Conclusion:
 In this lab, we successfully learned how to manage source code using Git. We covered key commands like `init`, `add`, `commit`, `branch`, `checkout`, and `push`. Understanding Git is essential for collaborative software development, and this lab provided a practical foundation for future work in teams and version-controlled environments.
