@@ -30,7 +30,7 @@ RDD is a user-centric approach where development is directly driven by requireme
 ### PROBLEM STATEMENT:
 Create a function to check whether a number is prime using TDD.
 
-### Step 1: Write a first test
+### Step 1: Write a first test.
 
 ```python
 import unittest
