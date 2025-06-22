@@ -33,5 +33,5 @@ In Agile, code is released frequently. Deployment tools help automate the proces
 ## RESULT
 Successfully deployed frontend and backend apps with automation. Understood how deployment tools support Agile principles of fast, continuous delivery.
 
-## CONCLUSION
+## CONCLUSION:
 Deployment tools like Netlify, Heroku, and GitHub Actions help teams deliver updates quickly and safely, supporting Agile practices.
